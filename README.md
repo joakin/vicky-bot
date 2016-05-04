@@ -5,6 +5,9 @@ Vicky is a bot to interact with wikipedia via chat.
 
 Currently it only supports Hangouts.
 
+To interact with the deployed version, add `vickipediabot@gmail.com` to
+hangouts, and start chatting with her!
+
 ## Usage
 
 Depends on node >= 6
