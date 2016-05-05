@@ -12,9 +12,11 @@ hangouts, and start chatting with her!
 
 Depends on node >= 6
 
+You need a `conf.json` based on `conf-sample.json`
+
 ```
 npm install
-HANGOUTSPASSWORD=password node index.js
+node index.js
 ```
 
 For testing locally without having to connect to hangouts:
