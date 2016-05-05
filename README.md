@@ -22,3 +22,10 @@ For testing locally without having to connect to hangouts:
 ```
 node cli.js
 ```
+
+For running the tests:
+
+```
+npm test # Run tests once
+npm run test:watch # Run test watcher
+```
