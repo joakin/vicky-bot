@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "concat-stream": "^1.5.1",
+    "ecstatic": "^1.4.0",
     "hangouts-bot": "^0.2.1"
   },
   "devDependencies": {
