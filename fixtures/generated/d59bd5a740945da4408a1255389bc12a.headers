@@ -1,0 +1,36 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "date": "Thu, 05 May 2016 16:26:03 GMT",
+    "content-type": "application/json",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "etag": "\"0/40c0a6f7-1251-11e6-9bc2-dc304557379c\"",
+    "cache-control": "s-maxage=1209600, max-age=0, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "accept, content-type",
+    "access-control-expose-headers": "etag",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; frame-ancestors 'none'",
+    "x-content-security-policy": "default-src 'none'; frame-ancestors 'none'",
+    "x-webkit-csp": "default-src 'none'; frame-ancestors 'none'",
+    "x-request-id": "d45031e9-12d9-11e6-b09f-47a5b03baa5b",
+    "x-varnish": "890924769, 1304696647, 701672945, 1326582135 1319880650",
+    "via": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "age": "1817",
+    "x-cache": "cp1067 miss(0), cp2013 miss(0), cp4010 miss(0), cp4017 frontend hit(1)",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "set-cookie": [
+      "WMF-Last-Access=05-May-2016;Path=/;HttpOnly;secure;Expires=Mon, 06 Jun 2016 12:00:00 GMT",
+      "GeoIP=US:CO:Estes_Park:40.40:-105.62:v4; Path=/; secure; Domain=.wikipedia.org"
+    ],
+    "x-analytics": "https=1;nocookies=1",
+    "x-client-ip": "207.94.25.89"
+  },
+  "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Banana",
+  "time": 2101,
+  "request": {}
+}

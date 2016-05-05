@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/**/*.js"
+    "test": "VCR_MODE=cache tape -r sepia test/**/*.js"
   },
   "author": "Joaquin Oltra <joaquin@chimeces.com> (http://chimeces.com)",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "hangouts-bot": "^0.2.1"
   },
   "devDependencies": {
+    "sepia": "^2.0.1",
     "tap-spec": "^4.1.1",
     "tape": "^4.5.1"
   }
