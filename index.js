@@ -1,6 +1,8 @@
 const email = 'vickypediabot@gmail.com'
 const password = process.env.HANGOUTSPASSWORD
 
+require('./lib/server')
+
 const HangoutsBot = require('hangouts-bot')
 
 const bot = new HangoutsBot(email, password)

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test:watch": "nodemon --exec \"npm test\"",
-    "test": "VCR_MODE=cache tape -r sepia test/**/*.js"
+    "test": "VCR_MODE=cache tape -r sepia 'test/**/*.js'"
   },
   "author": "Joaquin Oltra <joaquin@chimeces.com> (http://chimeces.com)",
   "license": "ISC",
