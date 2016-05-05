@@ -1,0 +1,31 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "date": "Thu, 05 May 2016 16:44:08 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "server": "mw1198.eqiad.wmnet",
+    "x-powered-by": "HHVM/3.12.1",
+    "x-content-type-options": "nosniff",
+    "cache-control": "private, must-revalidate, max-age=0",
+    "p3p": "CP=\"This is not a P3P policy! See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info.\"",
+    "x-frame-options": "SAMEORIGIN",
+    "vary": "Accept-Encoding,Treat-as-Untrusted,X-Forwarded-Proto,Cookie,Authorization",
+    "backend-timing": "D=63676 t=1462466648776430",
+    "x-varnish": "1509942714, 434023487, 2312041974, 1330450567",
+    "via": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "age": "0",
+    "x-cache": "cp1055 miss+chfp(0), cp2004 miss+chfp(0), cp4018 miss+chfp(0), cp4017 frontend miss+chfp(0)",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "set-cookie": [
+      "WMF-Last-Access=05-May-2016;Path=/;HttpOnly;secure;Expires=Mon, 06 Jun 2016 12:00:00 GMT",
+      "GeoIP=US:CO:Estes_Park:40.40:-105.62:v4; Path=/; secure; Domain=.wikipedia.org"
+    ],
+    "x-analytics": "https=1;nocookies=1",
+    "x-client-ip": "207.94.25.89"
+  },
+  "url": "http://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=pageprops&ppprop=displaytitle&redirects=&generator=search&gsrnamespace=0&gsrsearch=Banana&gsrlimit=10",
+  "time": 423,
+  "request": {}
+}
