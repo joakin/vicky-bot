@@ -1,0 +1,12 @@
+{
+  "hangouts": {
+    "user": "email@gmail.com",
+    "password": "password"
+  },
+  "irc": {
+    "user": "ircusername",
+    "pass": "password",
+    "server": "irc.freenode.net",
+    "channels": [ "#wikimedia-mobile" ]
+  }
+}
