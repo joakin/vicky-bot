@@ -12,7 +12,8 @@
   "dependencies": {
     "concat-stream": "^1.5.1",
     "ecstatic": "^1.4.1",
-    "hangouts-bot": "^0.2.1",
+    "node-xmpp-client": "^3.0.0",
+    "node-xmpp-stanza": "^1.0.0",
     "irc": "^0.5.0"
   },
   "devDependencies": {

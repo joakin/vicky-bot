@@ -25,7 +25,7 @@ test('the promise results end up having a msg with the results', (t) => {
   })
 })
 
-test('doesn\'t respond to input while it is searching', (t) => {
+test("doesn't respond to input while it is searching", (t) => {
   t.plan(1)
   const search = Search()
   search('someone', 's Banana')

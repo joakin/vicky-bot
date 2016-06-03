@@ -18,7 +18,7 @@ test('salutes the first time contacted by a user', (t) => {
   t.ok(results2[0].indexOf('Hi!') === 0, 'first message is a salutation')
 })
 
-test('doesn\'t salute after the first time contacted by a user', (t) => {
+test("doesn't salute after the first time contacted by a user", (t) => {
   t.plan(2)
   const help = Help()
 
